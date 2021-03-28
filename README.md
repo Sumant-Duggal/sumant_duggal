@@ -1,2 +1,2 @@
 # sumant_duggal
-Projects
+The following projects uploaded have been undertaken during my MSc in Business Analytics and Big Data
